@@ -1,0 +1,5 @@
+#pragma once
+
+#define HEAAN_VERSION_MAJOR 0
+#define HEAAN_VERSION_MINOR 2
+#define HEAAN_VERSION_PATCH 0
